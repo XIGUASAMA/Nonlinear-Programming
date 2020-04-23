@@ -1,0 +1,5 @@
+Status: Local optimal solution found.
+x1: 8.000
+x2: 6.000
+Objective value: 8.000
+Epsilon: 0.001
